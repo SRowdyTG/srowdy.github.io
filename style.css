@@ -1,0 +1,144 @@
+body{
+    background-color: #3c2f2f;
+    margin: 0 px;
+}
+#contenedor_principal {
+    background-color: #4b3832;
+    width: 1280px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+header {
+    width: 1240px;
+    height: 160px;
+    background-color: #be9b7b;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-block;
+}
+header img {
+    display: block;
+    margin-left: 5px;
+    margin-top: 5px;
+  }
+nav{
+    width: 1200px;
+    height: 60px;
+    margin-left: 40px;
+    margin-top: 5px;
+    background: #be9b7b;
+}
+nav a {
+    display: inline-block;
+    background-color:#854442;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    }
+a{
+    text-decoration: none;
+    color: #fff4e6;
+}
+main {
+    width: 1240px;
+    height: 320px;
+    background-color:#be9b7b;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+main article{
+    display: inline-block;
+    width: 1230px;
+    height: 310px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #3c2f2f;
+}
+h1 {
+    margin-left: 10px;
+    margin-top: 4px;
+    margin-bottom: 15px;
+    color:#fff4e6;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    margin-left: 10px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    color: #be9b7b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p img{
+    margin-left: 60px;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+footer{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    color: #be9b7b;
+}
+div{
+    color: #fff4e6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.parent{
+    display: flex;
+}
+.column1 img{
+    display: block;
+}
+.column2 img{
+    display: block;
+    margin-left:25px;
+    margin-top: 58px;
+    margin-right: 0px;
+    margin-bottom:0px;
+    padding: -4px;
+}
+.column3 img{
+    display: block;
+    margin-left:25px;
+    margin-top:0px;
+    margin-right: 0px;
+    margin-bottom:0px;
+}
+.column1{
+    background: #854442;
+    color: #fff4e6;
+    padding: 10px;
+    width: 426px;
+    margin-left: 70px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.column1:hover{
+    background-color: #3c2f2f
+}
+.column2{
+    background: #854442;
+    color: #fff4e6;
+    padding: 10px;
+    width: 426px;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.column2:hover{
+    background-color: #3c2f2f
+}
+.column3{
+    background: #854442;
+    color: #fff4e6;
+    padding: 10px;
+    width: 426px;
+    margin-left: 0px;
+    margin-right: 70px;
+    margin-top: 10px;
+}
+.column3:hover{
+    background-color: #3c2f2f
+}
