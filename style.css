@@ -79,7 +79,20 @@ footer{
     margin-top: 5px;
     margin-bottom: 0px;
     margin-left: 10px;
+    margin-right: 10px;
     color: #be9b7b;
+    height: 25px;
+}
+#flags {
+    display: block;
+    margin-left: 1150px;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+footer img{
+    margin-top: 0px;
+    margin-left: 5px;
 }
 div{
     color: #fff4e6;
