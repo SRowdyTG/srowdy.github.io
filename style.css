@@ -83,12 +83,13 @@ footer{
     color: #be9b7b;
     height: 25px;
 }
-#flags {
-    display: block;
-    margin-left: 1150px;
-    margin-top: 0px;
-    margin-right: 10px;
-    margin-bottom: 0px;
+address{
+    position: relative;
+}
+#flags{
+     display: inline-block;
+     position: absolute;
+     right: 0;
 }
 footer img{
     margin-top: 0px;
