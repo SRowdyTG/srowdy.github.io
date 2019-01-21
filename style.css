@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Aleo|Roboto');
+
 body{
     background-color: #3c2f2f;
     margin: 0 px;
@@ -61,14 +63,14 @@ h1 {
     margin-bottom: 15px;
     color:#fff4e6;
     font-size: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Aleo', serif;
 }
 p{
     margin-left: 10px;
     margin-top: 4px;
     margin-bottom: 4px;
     color: #be9b7b;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 p img{
     margin-left: 60px;
@@ -97,7 +99,7 @@ footer img{
 }
 div{
     color: #fff4e6;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .parent{
     display: flex;
